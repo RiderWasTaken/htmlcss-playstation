@@ -1,0 +1,48 @@
+/* -----tags----- */
+
+
+
+/* -----classes----- */
+
+.top-logo {
+    background-color: #000;
+    padding: 10px 5px;
+}
+
+.top-logo img {
+    width: 8%;
+}
+
+.jumbo {
+    background-image: url(../img/jumbo-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.jumbo img {
+    width: 60%;
+}
+
+.jumbo-text {
+    padding: 350px 25px 30px;
+}
+
+
+/* -----buttons----- */
+
+.orange-bt {
+    background-color: #CD3D0F;
+    color: #FFF;
+    padding: 10px;
+    border: 0px;
+    border-radius: 40px;
+}
+
+.blue-bt {
+    background-color: #2D64E6;
+    color: #FFF;
+    padding: 10px;
+    border: 0px;
+    border-radius: 40px;
+}
