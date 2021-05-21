@@ -28,6 +28,15 @@
     padding: 350px 25px 30px;
 }
 
+.game-slides .row img {
+    width: 80%;
+    border-radius: 30px;
+}
+
+.devices img {
+    width: 70%;
+}
+
 
 /* -----buttons----- */
 
