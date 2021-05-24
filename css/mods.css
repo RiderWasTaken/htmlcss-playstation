@@ -1,6 +1,8 @@
 /* -----tags----- */
 
-
+footer {
+    background-color: #00439C;
+}
 
 /* -----classes----- */
 
@@ -20,7 +22,7 @@
 }
 
 .mainb-text img {
-    width: auto;
+    max-width: 60%;
 }
 
 .mainb-text {
@@ -74,7 +76,7 @@
 }
 
 .plus-text img {
-    width: 40%;
+    width: 50%;
 }
 
 .discounts .row div img {
@@ -90,10 +92,33 @@
 }
 
 .now-text img {
-    width: 40%;
+    width: 50%;
 }
 
-/* -----buttons----- */
+.social .row div img {
+    width: 100%;
+}
+
+footer .row div ul {
+    list-style: none;
+    color: #FFF;
+    line-height: 200%;
+}
+
+#ft-logo {
+    width: 15%;
+}
+
+.ft-bottom img {
+    width: 120px;
+}
+
+.ft-bottom p a {
+    text-decoration-color: #FFF;
+    color: #FFF;
+}
+
+/* -----buttons/utilities----- */
 
 .orange-bt {
     background-color: #CD3D0F;
@@ -131,7 +156,9 @@
     border-radius: 40px;
 }
 
-
+.pointer {
+    cursor: pointer;
+}
 
 .bbl {
     background-color: blue;
