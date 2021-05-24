@@ -65,12 +65,23 @@
     width: 100%;
 }
 
+.ps-plus {
+    background-color: #BEBCBB;
+}
 
+.ps-plus .row .plus-banner img {
+    width: 100%;
+}
+
+.plus-text img {
+    width: 40%;
+}
 /* -----buttons----- */
 
 .orange-bt {
     background-color: #CD3D0F;
     color: #FFF;
+    font-weight: bold;
     padding: 10px;
     border: 0px;
     border-radius: 40px;
@@ -79,11 +90,20 @@
 .blue-bt {
     background-color: #2D64E6;
     color: #FFF;
+    font-weight: bold;
     padding: 10px;
     border: 0px;
     border-radius: 40px;
 }
 
+.white-bt {
+    background-color: #D9DADC;
+    color: #376BE5;
+    font-weight: bold;
+    padding: 10px;
+    border: 0px;
+    border-radius: 40px;
+}
 
 
 .bbl {
