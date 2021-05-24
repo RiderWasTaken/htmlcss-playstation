@@ -76,6 +76,11 @@
 .plus-text img {
     width: 40%;
 }
+
+.discounts .row div img {
+    width: 100%;
+}
+
 /* -----buttons----- */
 
 .orange-bt {
@@ -104,6 +109,8 @@
     border: 0px;
     border-radius: 40px;
 }
+
+
 
 
 .bbl {
