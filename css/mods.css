@@ -1,4 +1,8 @@
 /* -----tags----- */
+nav {
+    position: sticky;
+    top: 0;
+}
 
 footer {
     background-color: #00439C;
@@ -11,7 +15,11 @@ footer {
 }
 
 .top-logo img {
-    width: 8%;
+    width: 5%;
+}
+
+.search img{
+    width: 50%
 }
 
 .main-banner {
@@ -120,11 +128,20 @@ footer .row div ul {
 
 /* -----buttons/utilities----- */
 
+.login-bt {
+    background-color: #363636;
+    color: #FDFDFD;
+    font-weight: bold;
+    padding: 10px 15px;
+    border: 0px;
+    border-radius: 40px;
+}
+
 .orange-bt {
     background-color: #CD3D0F;
     color: #FFF;
     font-weight: bold;
-    padding: 10px;
+    padding: 10px 15px;
     border: 0px;
     border-radius: 40px;
 }
@@ -133,7 +150,7 @@ footer .row div ul {
     background-color: #2D64E6;
     color: #FFF;
     font-weight: bold;
-    padding: 10px;
+    padding: 10px 15px;
     border: 0px;
     border-radius: 40px;
 }
@@ -142,7 +159,7 @@ footer .row div ul {
     background-color: #D9DADC;
     color: #376BE5;
     font-weight: bold;
-    padding: 10px;
+    padding: 10px 15px;
     border: 0px;
     border-radius: 40px;
 }
@@ -151,15 +168,11 @@ footer .row div ul {
     background-color: #F5F5F5;
     color: #020202;
     font-weight: bold;
-    padding: 10px;
+    padding: 10px 15px;
     border: 0px;
     border-radius: 40px;
 }
 
 .pointer {
     cursor: pointer;
-}
-
-.bbl {
-    background-color: blue;
 }
